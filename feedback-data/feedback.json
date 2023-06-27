@@ -1,0 +1,44 @@
+{
+  "feedbacks": [
+    {
+      "firstName": "Harsh",
+      "lastName": "Malik",
+      "phone": "7409238879",
+      "email": "harsh@gmail.com",
+      "location": "Springdale",
+      "rating": "5",
+      "comments": "Good",
+      "id": 1
+    },
+    {
+      "firstName": "Ad",
+      "lastName": "Harsh",
+      "phone": "7409238879",
+      "email": "saabharsh78@gmail.com",
+      "location": "Springdale",
+      "rating": "5",
+      "comments": "Excellent",
+      "id": 2
+    },
+    {
+      "firstName": "Sparsh",
+      "lastName": "Malik",
+      "phone": "7409238879",
+      "email": "sabharsh787@gmail.com",
+      "location": "Huntsville",
+      "rating": "5",
+      "comments": "Good",
+      "id": 3
+    },
+    {
+      "firstName": "Ram",
+      "lastName": "Tim",
+      "phone": "7412356980",
+      "email": "sample@domain.dom",
+      "location": "Springdale",
+      "rating": "5",
+      "comments": "Poor",
+      "id": 4
+    }
+  ]
+}
