@@ -1,6 +1,6 @@
 <section class="main_section m-5">
     <h2>We appreciate your feedback!</h2>
-<form id="regForm" (ngSubmit)="onSubmit(feedbackForm)" #feedbackForm="ngForm" class="border border-1 rounded-2 p-4">
+<form id="regForm" (ngSubmit)="onSubmit(feedbackForm)" #feedbackForm="ngForm" class="border border-1 rounded-2 p-4 mb-3">
   <!-- First Name  -->
     <mat-form-field appearance="legacy" class="w-100">
         <input matInput type="text" name="firstName" [(ngModel)]="feedback.firstName" placeholder="First Name" required minlength="2" #firstName="ngModel">
